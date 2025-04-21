@@ -1,0 +1,15 @@
+<suitelet scriptid="customscript_helloworldkv">
+<name>Suitelet Hello World</name>
+<notifyowner>T</notifyowner>
+<scriptfile>[/SuiteScripts/helloWorld.js]</scriptfile>
+<scriptdeployments>
+ <scriptdeployment scriptid="customdeploy_helloworldkv">
+     <isdeployed>T</isdeployed>
+     <loglevel>DEBUG</loglevel>
+     <status>RELEASED</status>
+     <title>SuiteCloud Hello World</title>
+ </scriptdeployment>
+</scriptdeployments>
+</suitelet> 
+
+       
