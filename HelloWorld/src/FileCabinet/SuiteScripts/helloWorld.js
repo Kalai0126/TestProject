@@ -91,11 +91,11 @@ define(['N/ui/serverWidget'], (serverWidget) => {
                 container: 'fieldgroupid'
             });
 
-            parentCompany.addSelectOption({
-                value: 'a',
-                text: '1 Divavu Co',
-                container: 'fieldgroupid'
-            });
+            // parentCompany.addSelectOption({
+            //     value: 'a',
+            //     text: '1 Divavu Co',
+            //     container: 'fieldgroupid'
+            // });
 
             parentCompany.addSelectOption({
                 value: 'b',
